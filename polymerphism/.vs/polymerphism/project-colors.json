@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "519afa78-0e2e-4acf-9ea5-0b3643b63ca2": {
+      "ProjectGuid": "519afa78-0e2e-4acf-9ea5-0b3643b63ca2",
+      "DisplayName": "polymerphism",
+      "ColorIndex": 0
+    },
+    "6d4c06a1-eb75-490e-ad65-a3b30d1cb013": {
+      "ProjectGuid": "6d4c06a1-eb75-490e-ad65-a3b30d1cb013",
+      "DisplayName": "overridingMethod",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "492ad49c-e9bc-447b-befb-06f019b60a19": {
+      "ProjectGuid": "492ad49c-e9bc-447b-befb-06f019b60a19",
+      "DisplayName": "overridingmethod",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

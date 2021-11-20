@@ -1,0 +1,14 @@
+E:\CSharp\ClassAndObj\bin\Debug\net6.0\ClassAndObj.exe
+E:\CSharp\ClassAndObj\bin\Debug\net6.0\ClassAndObj.deps.json
+E:\CSharp\ClassAndObj\bin\Debug\net6.0\ClassAndObj.runtimeconfig.json
+E:\CSharp\ClassAndObj\bin\Debug\net6.0\ClassAndObj.dll
+E:\CSharp\ClassAndObj\bin\Debug\net6.0\ref\ClassAndObj.dll
+E:\CSharp\ClassAndObj\bin\Debug\net6.0\ClassAndObj.pdb
+E:\CSharp\ClassAndObj\obj\Debug\net6.0\ClassAndObj.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp\ClassAndObj\obj\Debug\net6.0\ClassAndObj.AssemblyInfoInputs.cache
+E:\CSharp\ClassAndObj\obj\Debug\net6.0\ClassAndObj.AssemblyInfo.cs
+E:\CSharp\ClassAndObj\obj\Debug\net6.0\ClassAndObj.csproj.CoreCompileInputs.cache
+E:\CSharp\ClassAndObj\obj\Debug\net6.0\ClassAndObj.dll
+E:\CSharp\ClassAndObj\obj\Debug\net6.0\ref\ClassAndObj.dll
+E:\CSharp\ClassAndObj\obj\Debug\net6.0\ClassAndObj.pdb
+E:\CSharp\ClassAndObj\obj\Debug\net6.0\ClassAndObj.genruntimeconfig.cache

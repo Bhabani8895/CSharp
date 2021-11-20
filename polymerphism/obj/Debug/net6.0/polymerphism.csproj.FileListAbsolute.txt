@@ -1,0 +1,15 @@
+E:\CSharp\polymerphism\bin\Debug\net6.0\polymerphism.exe
+E:\CSharp\polymerphism\bin\Debug\net6.0\polymerphism.deps.json
+E:\CSharp\polymerphism\bin\Debug\net6.0\polymerphism.runtimeconfig.json
+E:\CSharp\polymerphism\bin\Debug\net6.0\polymerphism.dll
+E:\CSharp\polymerphism\bin\Debug\net6.0\ref\polymerphism.dll
+E:\CSharp\polymerphism\bin\Debug\net6.0\polymerphism.pdb
+E:\CSharp\polymerphism\obj\Debug\net6.0\polymerphism.csproj.AssemblyReference.cache
+E:\CSharp\polymerphism\obj\Debug\net6.0\polymerphism.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp\polymerphism\obj\Debug\net6.0\polymerphism.AssemblyInfoInputs.cache
+E:\CSharp\polymerphism\obj\Debug\net6.0\polymerphism.AssemblyInfo.cs
+E:\CSharp\polymerphism\obj\Debug\net6.0\polymerphism.csproj.CoreCompileInputs.cache
+E:\CSharp\polymerphism\obj\Debug\net6.0\polymerphism.dll
+E:\CSharp\polymerphism\obj\Debug\net6.0\ref\polymerphism.dll
+E:\CSharp\polymerphism\obj\Debug\net6.0\polymerphism.pdb
+E:\CSharp\polymerphism\obj\Debug\net6.0\polymerphism.genruntimeconfig.cache
